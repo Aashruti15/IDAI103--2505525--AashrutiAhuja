@@ -12,14 +12,20 @@ The solution will foster cultural conservation and ensure that knowledge of rest
 
 Conventional restoration of art also entails:
 1.Learning artistic style and brushwork.
+
 2.A study of historical context.
+
 3.Equalling colour schemes and texture.
+
 4.Drawings on missing parts of a work of art.
 
 Generative AI models can simulate these processes using descriptive prompts. AI can:
 1.Propose stylistic restorations.
+
 2.Get culturally sensitive interpretations.
+
 3.Give accounts of restoration.
+
 4.Analyse artistic periods
 
 It was found out that AI assists in accelerating restoration planning and making it more accessible to non-experts.
@@ -29,24 +35,36 @@ It was found out that AI assists in accelerating restoration planning and making
 
 Welcome Page
    1.App introduction
+   
    2.Cultural preservation mission
+   
    3.Start button
 
 Login Page
    1.Username/password authentication
+   
    2.Secure entry to dashboard
 
 Dashboard
 Features included:
   1.Artwork Type Input
+  
   2.Style/Period Selection
+  
   3.Artist Field
+  
   4.Damage Description Box
+  
   5.Output Type Selector
+  
   6.AI Restoration Suggestions
+  
   7.Narrative Explanation Generator
+  
   8.Symbol Interpretation Tool
+  
   9.Prompt Temperature Slider
+  
   10.Result Download Option
 
 
@@ -86,4 +104,8 @@ Provides restoration recommendations.
 Gives historical background.
 Gives formal academic work.
 Provides fast chatbot services.
+
+# APP
+https://idai103--2505525--aashrutiahuja-rgra3s7bhvmxdhsflleyi3.streamlit.app/
+
 
